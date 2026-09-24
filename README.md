@@ -1,4 +1,4 @@
-# Artificial Intelligence — Lab Work
+# Artificial Intelligence — Academic Lab Work
 
 Lab assignments from a university Artificial Intelligence course, implemented in Python using Jupyter/Colab notebooks. The work spans classical AI search and optimization algorithms through to machine learning with scikit-learn.
 
